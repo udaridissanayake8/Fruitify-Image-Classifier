@@ -62,11 +62,3 @@ The Fruitify model is built using TensorFlow and Keras. It employs a Convolution
 
 The model successfully achieved the target accuracy of 85% and demonstrated robust performance on unseen data.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
