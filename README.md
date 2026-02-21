@@ -62,6 +62,50 @@ The Fruitify model is built using TensorFlow and Keras. It employs a Convolution
 
 The model successfully achieved the target accuracy of 85% and demonstrated robust performance on unseen data.
 
+## 📈 Key Achievements
+
+- ✅ 100% test accuracy on 10 fruit classes
+- ✅ Perfect classification on unseen test data
+- ✅ Well-documented, reproducible code
+- ✅ All models and results saved in Google Drive
+
+## 📷 Sample Predictions
+
+![Sample Predictions](Implementation_1/all_10_fruits.png)
+
+*Figure 1: Sample predictions showing all 10 fruit classes correctly classified (green titles)*
+
+## 📈 Training History
+
+![Training History](Implementation_1/training_history.png)
+
+*Figure 2: Training and validation accuracy/loss over 20 epochs*
+
+## 📂 Repository Structure
+
+The repository is organized as follows:
+
+```
+Fruitify-Image-Classifier/
+│
+├── Implementation_1/
+│   ├── Fruitify_Image_Classifier (1).ipynb  # Jupyter Notebook for model training and evaluation
+│   ├── fruitify_model_v1.h5                # Pre-trained model file
+│   ├── implementation1_results.txt         # Results and observations from the first implementation
+│
+├── README.md                                # Project documentation
+```
+
+This structure ensures that all project files are organized for easy navigation and understanding.
+
+## 📚 References
+
+[1] Kaggle. (2024). Fruits 360 Dataset. Retrieved from: [https://www.kaggle.com/datasets/moltean/fruits](https://www.kaggle.com/datasets/moltean/fruits)
+
+[2] TensorFlow Documentation. (2024). Image Classification with TensorFlow.
+
+[3] Chollet, F. (2021). Deep Learning with Python. Manning Publications.
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
