@@ -7,7 +7,7 @@
 
 ## 📋 Overview
 
-**Fruitify** is a deep learning-based image classification system developed for COM 3303 - Artificial Intelligence mini project. The system uses Convolutional Neural Networks (CNNs) to automatically identify and classify different types of fruits from digital images.
+**Fruitify** is a deep learning-based image classification system. The system uses Convolutional Neural Networks (CNNs) to automatically identify and classify different types of fruits from digital images.
 
 ## 🎯 Project Objectives
 
