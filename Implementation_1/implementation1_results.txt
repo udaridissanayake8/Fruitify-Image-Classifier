@@ -1,6 +1,0 @@
-FRUITIFY IMPLEMENTATION 1 RESULTS
-========================================
-Final Training Accuracy: 0.9983
-Final Validation Accuracy: 1.0000
-Test Accuracy: 1.0000
-Test Loss: 0.0000
