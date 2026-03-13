@@ -41,7 +41,7 @@
 ## 🚀 Usage
 
 1. Place your fruit images in the `data/` directory.
-2. Open the Jupyter Notebook `Fruitify_Image_Classifier (1).ipynb` in the `Implementation_1/` folder.
+2. Open the Jupyter Notebook `Fruitify_Image_Classifier (1).ipynb` in the `Implementation_1/` folder or `Fruitify_Image_Classifier (4).ipynb` in the `Implementation_2/` folder.
 3. Follow the steps in the notebook to preprocess the data, train the model, and evaluate its performance.
 4. To test the model on new images, use the `predict()` function provided in the notebook.
 
@@ -56,11 +56,17 @@ The Fruitify model is built using TensorFlow and Keras. It employs a Convolution
 
 ## 📊 Results
 
+### Implementation 1
 - **Training Accuracy:** 99.02%
 - **Validation Accuracy:** 100%
 - **Testing Accuracy:** 87%
 
-The model successfully achieved the target accuracy of 85% and demonstrated robust performance on unseen data.
+### Implementation 2
+- **Training Accuracy:** TBD
+- **Validation Accuracy:** TBD
+- **Testing Accuracy:** TBD
+
+The second implementation builds upon the first with additional optimizations and a refined model architecture.
 
 ## 📈 Key Achievements
 
@@ -101,6 +107,11 @@ Fruitify-Image-Classifier/
 │   ├── Fruitify_Image_Classifier (1).ipynb  # Jupyter Notebook for model training and evaluation
 │   ├── fruitify_model_v1.h5                # Pre-trained model file
 │   ├── implementation1_results.txt         # Results and observations from the first implementation
+│
+├── Implementation_2/
+│   ├── Fruitify_Image_Classifier (4).ipynb  # Jupyter Notebook for the second implementation
+│   ├── fruitify_model_v2_best.keras         # Optimized model file
+│   ├── fruitify_model_v2_final.h5          # Final model file
 │
 ├── README.md                                # Project documentation
 ```
