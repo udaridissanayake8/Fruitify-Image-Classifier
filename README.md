@@ -62,9 +62,9 @@ The Fruitify model is built using TensorFlow and Keras. It employs a Convolution
 - **Testing Accuracy:** 87%
 
 ### Implementation 2
-- **Training Accuracy:** TBD
-- **Validation Accuracy:** TBD
-- **Testing Accuracy:** TBD
+- **Training Accuracy:** 99.5%
+- **Validation Accuracy:** 99.0%
+- **Testing Accuracy:** 98.29%
 
 The second implementation builds upon the first with additional optimizations and a refined model architecture.
 
